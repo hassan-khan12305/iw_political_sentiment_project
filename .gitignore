@@ -1,0 +1,11 @@
+data/
+iw/
+results/figures/
+models/lda/
+src/analysis/
+scripts/
+docs/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store

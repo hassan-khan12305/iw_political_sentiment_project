@@ -1,0 +1,15 @@
+pandas
+pyarrow
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+vaderSentiment
+gensim
+nltk
+
+# GPU machine only (for sentiment_tweetnlp.py and political_leaning_stance.py):
+# tweetnlp
+# torch
+# transformers

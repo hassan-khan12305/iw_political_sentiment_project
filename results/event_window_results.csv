@@ -1,0 +1,8 @@
+event,week,lam_window,lam_compl,delta_lam
+1st Debate (Biden-Trump) Jun 27,2024-W26,0.998,0.4303,0.5677
+Biden exits + RNC Jul 15–21,2024-W29,0.6828,0.4909,0.192
+Harris enters (struct. break) Jul 22,2024-W30,0.5084,0.5244,-0.016
+DNC Aug 19,2024-W34,0.1149,0.6001,-0.4852
+2nd Debate (Trump-Harris) Sep 10,2024-W37,0.0853,0.6058,-0.5205
+VP Debate Oct 1,2024-W40,0.2283,0.5783,-0.35
+Election Day Nov 5,2024-W45,0.9007,0.449,0.4518
